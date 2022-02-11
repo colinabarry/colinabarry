@@ -1,4 +1,7 @@
-<h1 align = "center"> Hi, I'm Colin. </h1>
+![github profile readme header v2](https://user-images.githubusercontent.com/80341037/153534846-d16c6db7-7c50-47e6-85fd-7dad643c9723.png)
+<!-- ![github profile readme header](https://user-images.githubusercontent.com/80341037/153534787-f9773b23-61cf-401a-9c1b-bae7c90e48ba.png) -->
+
+<!-- <h1 align = "center"> Hi, I'm Colin. </h1> -->
 
 ### About Me:
 :computer: Studying Computer Science and Game Development at Penn State Behrend. <br>
