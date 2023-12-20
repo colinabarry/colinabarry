@@ -7,10 +7,24 @@
 :computer: Studying Computer Science and Game Development at Penn State Behrend. <br>
 :space_invader: I make games for school and pleasure. Game programming is the best programming :sunglasses: <br>
 
+
 ### My Projects:
 
+#### 🚀 GoFast (working title) &nbsp;&nbsp; ``` A simple 3D game about free movement and going fast! ```
 
-#### :dvd: Token! &nbsp;&nbsp; ``` A 2D sidescrolling platformer with a twist: Every jump costs a token! ```
+<div align="center">
+  <img src="" width="49%">
+</div>
+
+
+#### ⚙️ Machination &nbsp;&nbsp; ``` A top-down 2D narrative game featuring interactions with villagers, town building, and an unexpected ending... ```
+
+<div align="center">
+  <img src="" width="49%">
+</div>
+
+
+#### 📀 Token! &nbsp;&nbsp; ``` A 2D sidescrolling platformer with a twist: Every jump costs a token! ```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/80341037/153512028-8a246f09-006a-4502-8784-21e23f3ebb27.gif" width="49%">
