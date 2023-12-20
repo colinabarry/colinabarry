@@ -13,14 +13,14 @@
 #### 🚀 GoFast (working title) &nbsp;&nbsp; ``` A simple 3D game about free movement and going fast! ```
 
 <div align="center">
-  <img src="" width="49%">
+<!--   <img src="" width="49%"> -->
 </div>
 
 
 #### ⚙️ Machination &nbsp;&nbsp; ``` A top-down 2D narrative game featuring interactions with villagers, town building, and an unexpected ending... ```
 
 <div align="center">
-  <img src="" width="49%">
+<!--   <img src="" width="49%"> -->
 </div>
 
 
