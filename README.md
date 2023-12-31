@@ -48,7 +48,7 @@
 </div>
 
 
-#### 📀 [Token!](https://github.com/colinabarry/Token-Remake) &nbsp;&nbsp; ``` A 2D sidescrolling platformer with a twist: Every jump costs a token! ```
+#### 🪙 [Token!](https://github.com/colinabarry/Token-Remake) &nbsp;&nbsp; ``` A 2D sidescrolling platformer with a twist: Every jump costs a token! ```
 <div align="center">
   <img src="https://user-images.githubusercontent.com/80341037/153512028-8a246f09-006a-4502-8784-21e23f3ebb27.gif" width="49%">
   <img src="https://user-images.githubusercontent.com/80341037/153533791-c9d89bb4-b446-49a7-8e66-b6901f166d28.gif" width="49%"/>
