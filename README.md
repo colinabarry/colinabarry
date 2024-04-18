@@ -41,7 +41,7 @@
 </div>
 
 
-#### ⚙️ Machination &nbsp;&nbsp; ``` A top-down 2D narrative game featuring interactions with villagers, town building, and an unexpected ending... ```
+#### ⚙️ [Machination](https://github.com/colinabarry/GAME420_FinalProject) &nbsp;&nbsp; ``` A top-down 2D narrative game featuring interactions with villagers, town building, and an unexpected ending... ```
 <div align="center">
 <!--   <img src="" width="49%"> -->
 <!--   <img src="" width="49%"> -->
